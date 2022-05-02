@@ -1,6 +1,9 @@
 function Azalt() {
     var a = document.getElementById("a");
     a.value = Number(a.value) - 1
+     if (a.value < 0) {
+        a.value = 0;
+    }
 }
 
 function arttir() {
