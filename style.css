@@ -8,7 +8,7 @@ body {
     height: 52px;
     position: absolute;
     top: 10%;
-    left: 90%;
+    left: 89%;
     transform: translate(-50%, -50%);
     font-size: 3em;
 }
@@ -20,7 +20,7 @@ body {
 #arttir {
     position: absolute;
     top: 30%;
-    left: 88%;
+    left: 87%;
     transform: translate(-50%, -50%);
     width: 100px;
     height: 100px;
@@ -30,7 +30,7 @@ body {
 #azalt {
     position: absolute;
     top: 80%;
-    left: 88%;
+    left: 87%;
     transform: translate(-50%, -50%);
     width: 100px;
     height: 100px;
@@ -40,7 +40,7 @@ body {
 #sifirla {
     position: absolute;
     top: 55%;
-    left: 88%;
+    left: 87%;
     transform: translate(-50%, -50%);
     width: 100px;
     height: 100px;
