@@ -1,0 +1,48 @@
+body {
+    background-image: url(https://www.ilahirahmet.com/uploads/posts/2016-07/1469643052_islami-masaustu-resimleri-15.jpg);
+    background-repeat: no-repeat;
+}
+
+#a {
+    width: 52px;
+    height: 52px;
+    position: absolute;
+    top: 10%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    font-size: 3em;
+}
+
+.b {
+    margin: 8px;
+}
+
+#arttir {
+    position: absolute;
+    top: 30%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+#azalt {
+    position: absolute;
+    top: 80%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+#sifirla {
+    position: absolute;
+    top: 55%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
